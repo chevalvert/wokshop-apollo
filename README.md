@@ -68,7 +68,7 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 * Matériel de bricolage
 
 **Machines**
-* imprimante 2D (Ultimaker 2)
+* imprimante 3D (Ultimaker 2)
 * plotter
 * traceur grand format
 * scie à ruban
