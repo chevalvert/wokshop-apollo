@@ -12,7 +12,7 @@
 La mission Apollo peut être vue comme une suite continue de micro-événement ayant une répercussion les uns sur les autres. Du compte à rebours précédant le lancement de la fusée jusqu’à l’amerrissage de la capsule Apollo le 24 juillet à 16 h 51. Cette suite d’événéments est régie par des processus de communication et un système de cause à effet.
 
 
-## Procédures de lancement
+## Procédure de lancement
 Dans le cadre du workshop, chaque élève (ou groupe d’élèves) que l’on nommera **«module»** aura en charge une étape de la mission. L’objection est de proposer une **«résolution»** de cette étape en prenant en compte **une entrée** (input) à réceptionner du groupe précédent et **une sortie** (output) à émettre au groupe suivant. 
 
 1. **Mission**  
@@ -20,7 +20,7 @@ Chaque groupe se voit remettre une enveloppe contenant la description de l’ét
 2. **Échelle de représentation**  
 Le groupe doit définir une échelle de représentation en puissance de 10.
 3. **Interface**  
-La résolution de l’étape se traduira par une interface (écran, physique, visuelle) dont les interactions et la scénarisation auront été pensé au préalable.
+La résolution de l’étape se traduira par une interface (écran, physique, visuelle) dont les interactions et la scénarisation auront été pensées au préalable.
 4. **Interaction**  
 Chaque groupe devra se mettre en relation avec le précédent et le suivant de façon à définir les entrées et les sorties. Celles-ci pourront être issues de variables physiques, sonores, visuelles.
 6. **Imaginaire et philosophie**  
