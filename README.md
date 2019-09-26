@@ -9,7 +9,7 @@
 
 
 ## Introduction
-La mission Apollo peut être vue comme une suite continue de micro-événement ayant une répercussion les uns sur les autres. Du compte à rebours précédant le lancement de la fusée jusqu’à l’amerrissage de la capsule Apollo le 24 juillet à 16 h 51. Cette suite d’événéments est régie par des processus de communication et un système de cause à effet.
+**La mission Apollo peut être vue comme une suite continue de micro-événements ayant une répercussion les uns sur les autres.** Du compte à rebours précédant le lancement de la fusée jusqu’à l’amerrissage de la capsule Apollo le 24 juillet à 16 h 51. Cette suite d’événéments est régie par des processus de communication et un système de cause à effet.
 
 
 ## Procédure de lancement
