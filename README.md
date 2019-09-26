@@ -9,7 +9,7 @@
 
 
 ## Introduction
-La mission Apollo peut être vue comme une suite continue de micro-événement ayant une répercussion les uns sur les autres. Du compte à rebours précédant le lancement de la fusée jusqu’à l’amerrissage de la capsule Apollo le 24 juillet à 16 h 51. Cette suite d’événément est régie par des processus de communication et engendrée par une série d’entrée et de sorties.
+La mission Apollo peut être vue comme une suite continue de micro-événement ayant une répercussion les uns sur les autres. Du compte à rebours précédant le lancement de la fusée jusqu’à l’amerrissage de la capsule Apollo le 24 juillet à 16 h 51. Cette suite d’événéments est régie par des processus de communication et un système de cause à effet.
 
 
 ## Procédures de lancement
@@ -25,9 +25,7 @@ Dans le cadre du workshop, chaque élève (ou groupe d’élèves) que l’on no
 
 ## Intervenants
 **Julien Drochon**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.
-
 **Pauline Chasseriaud**, Directrice du festival accès)s( cultures électroniques
-
 **Stéphane Buellet**, designer et co-fondateur du studio Chevalvert
 
 
@@ -69,7 +67,10 @@ http://bass2000.bagn.obs-mip.fr/base/sun/index.php
 http://cdab.bagn.obs-mip.fr/Mercury.swf
 https://www.flickr.com/photos/projectapolloarchive/albums
 
+## Workshops analogues
 
-
+https://github.com/chevalvert/workshop-trou-noir (interface et espace)
+https://github.com/chevalvert/workshop-datafossil (données, matéralisation)
+https://github.com/v3ga/Workshop_ECAL_2015_PushPop (cause à effet, cadavre exquis)
 
 
