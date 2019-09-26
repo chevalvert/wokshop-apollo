@@ -16,7 +16,7 @@ La mission Apollo peut être vue comme une suite continue de micro-événement a
 Dans le cadre du workshop, chaque élève (ou groupe d’élèves) que l’on nommera **«module»** aura en charge une étape de la mission. L’objection est de proposer une **«résolution»** de cette étape en prenant en compte **une entrée** (input) à réceptionner du groupe précédent et **une sortie** (output) à émettre au groupe suivant. 
 
 1. **Mission**  
-Chaque groupe se voit remettre une enveloppe contenant la description de l’étape, sa position dans la chaîne des événement et un volume scénographique.
+Chaque groupe se verra remettre une enveloppe contenant la description de l’étape, sa position dans la chaîne des événement et un volume scénographique.
 2. **Échelle de représentation**  
 Le groupe doit définir une échelle de représentation en puissance de 10.
 3. **Interface**  
