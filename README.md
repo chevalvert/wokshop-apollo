@@ -34,7 +34,7 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 
 
 ## Matériel et machines disponibles 
-* **ÉSAD - Atelier Soft Machine (à préciser avec Jason Cook)**
+**ÉSAD - Atelier Soft Machine (à préciser avec Jason Cook)**
 * Matériel (à conserver au sein de l’ésad)
 * 10 arduinos
 * 5 RPI
