@@ -33,6 +33,26 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 **Stéphane Buellet**, designer et co-fondateur du studio Chevalvert  
 
 
+
+## Ressources disponibles (pour contenu)
+
+* https://app.exploreapollo.org/
+* http://explornova360.com//fr/sc
+* https://soundcloud.com/nasa
+* http://www.scienceballade.com/la-nasa-soundcloud-sons-espace
+* http://faculty.washington.edu/jcramer/BBSound.html
+* http://setiathome.free.fr/information/audio.html
+* [Google Moon](http://www.google.com/moon/#lat=16.299051&lon=9.316406&zoom=3&apollo=)
+* [Google Mars](http://www.google.com/mars/)
+* http://tblegacy.bagn.obs-mip.fr/narval.html
+* http://bass2000.bagn.obs-mip.fr/base/sun/index.php
+* http://cdab.bagn.obs-mip.fr/Mercury.swf
+* https://www.flickr.com/photos/projectapolloarchive/albums
+
+## Ressources technologiques 
+(en cours d’ajout)
+
+
 ## Matériel et machines disponibles 
 **ÉSAD - Atelier Soft Machine (à préciser avec Jason Cook)**
 * Matériel (à conserver au sein de l’ésad)
@@ -55,21 +75,6 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 * scie à onglet
 * tourneuse / fraiseuse
 
-
-## Ressources disponibles (pour contenu)
-
-* https://app.exploreapollo.org/
-* http://explornova360.com//fr/sc
-* https://soundcloud.com/nasa
-* http://www.scienceballade.com/la-nasa-soundcloud-sons-espace
-* http://faculty.washington.edu/jcramer/BBSound.html
-* http://setiathome.free.fr/information/audio.html
-* [Google Moon](http://www.google.com/moon/#lat=16.299051&lon=9.316406&zoom=3&apollo=)
-* [Google Mars](http://www.google.com/mars/)
-* http://tblegacy.bagn.obs-mip.fr/narval.html
-* http://bass2000.bagn.obs-mip.fr/base/sun/index.php
-* http://cdab.bagn.obs-mip.fr/Mercury.swf
-* https://www.flickr.com/photos/projectapolloarchive/albums
 
 ## Workshops analogues
 
