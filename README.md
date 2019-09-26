@@ -24,9 +24,9 @@ Dans le cadre du workshop, chaque élève (ou groupe d’élèves) que l’on no
 
 
 ## Intervenants
-**Julien Drochon**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.
-**Pauline Chasseriaud**, Directrice du festival accès)s( cultures électroniques
-**Stéphane Buellet**, designer et co-fondateur du studio Chevalvert
+**Julien Drochon**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.  
+**Pauline Chasseriaud**, Directrice du festival accès)s( cultures électroniques  
+**Stéphane Buellet**, designer et co-fondateur du studio Chevalvert  
 
 
 ## Matériel et machines disponibles 
