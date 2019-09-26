@@ -15,12 +15,16 @@ La mission Apollo peut être vue comme une suite continue de micro-événement a
 ## Procédures de lancement
 Dans le cadre du workshop, chaque élève (ou groupe d’élèves) que l’on nommera **«module»** aura en charge une étape de la mission. L’objection est de proposer une **«résolution»** de cette étape en prenant en compte **une entrée** (input) à réceptionner du groupe précédent et **une sortie** (output) à émettre au groupe suivant. 
 
-1. Chaque groupe se voit remettre une enveloppe contenant la description de l’étape, sa position dans la chaîne des événement et un volume scénographique.
-2. Le groupe doit définir une échelle de représentation en puissance de 10.
-3. La résolution de l’étape se traduira par une interface dont les interactions et la scénarisation auront été pensé au préalable.
-4. Chaque groupe devra se mettre en relation avec le précédent et le suivant de façon à définir les entrées et les sorties.
-4. Les valeurs d’entrée et de sortie pourront être issues de variables physiques, sonores, visuelles.
-5. Le workshop repose sur la philosophie des [machines de Goldberg](https://www.google.com/search?q=rube+goldberg+machine&sxsrf=ACYBGNTHWHnbQb__6wzuOr1ZHdW5SGPimg:1569505116862&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIt9qXzu7kAhVwyoUKHd5nBnwQ_AUIEygC&biw=1440&bih=766) ou de [l’effet domino](https://fr.wikipedia.org/wiki/Effet_domino).
+1. **Mission**  
+Chaque groupe se voit remettre une enveloppe contenant la description de l’étape, sa position dans la chaîne des événement et un volume scénographique.
+2. **Échelle de représentation**  
+Le groupe doit définir une échelle de représentation en puissance de 10.
+3. **Interface**  
+La résolution de l’étape se traduira par une interface (écran, physique, visuelle) dont les interactions et la scénarisation auront été pensé au préalable.
+4. **Interaction**  
+Chaque groupe devra se mettre en relation avec le précédent et le suivant de façon à définir les entrées et les sorties. Celles-ci pourront être issues de variables physiques, sonores, visuelles.
+6. **Imaginaire et philosophie**  
+Le workshop repose sur la philosophie des [machines de Goldberg](https://www.google.com/search?q=rube+goldberg+machine&sxsrf=ACYBGNTHWHnbQb__6wzuOr1ZHdW5SGPimg:1569505116862&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIt9qXzu7kAhVwyoUKHd5nBnwQ_AUIEygC&biw=1440&bih=766) ou également de [l’effet domino](https://fr.wikipedia.org/wiki/Effet_domino) qui exprime dans les deux cas une relation entre une cause et un effet.
 
 
 ## Intervenants
