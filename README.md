@@ -48,6 +48,7 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 * http://bass2000.bagn.obs-mip.fr/base/sun/index.php
 * http://cdab.bagn.obs-mip.fr/Mercury.swf
 * https://www.flickr.com/photos/projectapolloarchive/albums
+* https://www.hq.nasa.gov/alsj/a11/a11transcript_tec.html (This is the transcription of the Technical Air-to-Ground Voice Transmission (GOSS NET 1) from the Apollo 11 mission.)
 
 ## Ressources technologiques 
 (en cours d’ajout)
