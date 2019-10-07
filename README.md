@@ -36,6 +36,8 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 
 ## Ressources disponibles (pour contenu)
 
+* Apollo 11 Sounds : https://archive.org/details/Apollo11Audio
+
 * https://app.exploreapollo.org/
 * http://explornova360.com//fr/sc
 * https://soundcloud.com/nasa
