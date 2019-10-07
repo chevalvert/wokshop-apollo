@@ -50,6 +50,73 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 * https://www.flickr.com/photos/projectapolloarchive/albums
 * https://www.hq.nasa.gov/alsj/a11/a11transcript_tec.html (This is the transcription of the Technical Air-to-Ground Voice Transmission (GOSS NET 1) from the Apollo 11 mission.)
 
+
+Approches spatiales dans l’histoire des sciences et des arts, Jean-Marc Besse, L’espace géographique, 2010
+https://www.cairn.info/revue-espace-geographique-2010-3-page-211.htm
+ 
+Biosphère 3 : arts, science, fiction, Nicola Jankovic, Art Press, 2014
+https://www.artpress.com/wp-content/uploads/2014/12/2509.pdf
+ 
+De la cité martienne aux projets territoriaux de développement durable, Jean-Marc Salotti, Revue Projectics/Proyéctica/Projectique n°7, 2011
+https://www.cairn.info/revue-projectique-2011-1-page-5.htm
+ 
+Exploration spatiale et imaginaire populaire américain, 1957-2009, Thomas Dubost, Bulletin de l’Institut Pierre Renouvin n°31, 2010
+https://www.cairn.info/revue-bulletin-de-l-institut-pierre-renouvin1-2010-1-page-31.htm
+ 
+L’art de l’ère spatiale, Annick Bureaud, Art Press n°269, 2001
+http://www.annickbureaud.net/wp-content/uploads/2011/01/Arterespatiale.pdf
+ 
+L’espace, enjeux politiques – Hermès, la revue – CNRS Editons 2002
+https://www.cairn.info/revue-hermes-la-revue-2002-2.htm
+ 
+Lucio Fontana et le mouvement Spatialiste, Musée National d’Art moderne / centre Georges Pompidou, 1987
+https://www.centrepompidou.fr/media/document/3e/88/3e88c6bab5a6147d60cbea449c90d4df/normal.pdf
+ 
+From Zero to Sky Art, Interview with Otto Piene, Annick Bureaud, Art Press n°322, 2006
+http://www.annickbureaud.net/wp-content/uploads/2011/01/PieneEN.doc.pdf
+ 
+Vers une géopolitique cosmique ? Réalités et fantasmes, Jean-Marie Brohm. Outre-terre n°33-34, 2012
+https://www.cairn.info/revue-outre-terre1-2012-3-page-687.htm
+ 
+Combiner créativité et science-fiction dans une finalité d’expertise, Jean-Michel Calvez, Prospective et stratégie n°2-3, 2012
+https://www.cairn.info/revue-prospective-et-strategie-2012-1-page-219.htm
+ 
+Médias
+ 
+Revue Plasma, Art et science magazine
+https://plasma-magazine.com
+ 
+Revue Rêve d’Espace, site sur l'actualité spatiale, l'actualité des lancements, l'exploration de l'espace, les grandes missions actuelles et futures
+https://reves-d-espace.com/
+ 
+Emission La Méthode scientifique, Nicolas Martin, France Culture
+https://www.franceculture.fr/emissions/la-methode-scientifique
+ 
+Documentaires
+ 
+Lune, le huitième continent | ARTE
+https://www.youtube.com/watch?v=ixxxcHI4kpI
+
+Les robots #1 - La révolution aérospatiale
+https://www.youtube.com/watch?v=qkBPZDLa2l4
+
+Projet Mars-One : un voyage sans retour vers mars en 2022 pour 24 personnes
+https://www.youtube.com/watch?v=xLFLrY-QWvU
+
+Superstructures - Nasa, objectif Mars | ARTE
+https://www.youtube.com/watch?v=VeGx76WRx5E
+
+Mission Mars : Entre Rêves et Réalité !
+https://www.youtube.com/watch?v=A4XjR6vlqeA
+ 
+SpaceX's plan to fly you across the globe in 30 minutes | TED
+https://www.youtube.com/watch?v=Dar8P3r7GYA
+
+Mars : En quête de vie – 2 épisodes
+https://www.youtube.com/watch?v=ti20ivn91Ao
+https://www.youtube.com/watch?v=FVFBxiegTzY
+
+
 ## Ressources technologiques 
 (en cours d’ajout)
 
