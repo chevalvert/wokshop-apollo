@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test Makey Makey</title>
+    <link rel="stylesheet" href="">
+</head>
+
+
+<body>
+
+
+    <p id="output">Test</p>
+
+
+    <script>
+        
+        const output = document.getElementById('output');
+        
+        // Détection
+        document.addEventListener('keypress', logKey);
+        
+        
+        function logKey(e) {
+                console.log(e)
+                keyCase(e.key)
+        }
+        
+
+        function keyCase(keyDetect){
+            
+            switch (keyDetect) {
+              case 'a':
+                output.style.backgroundColor = "#FF0000";
+                break;
+              case 'g':
+                output.style.backgroundColor = "#00FF00";
+                break;
+              case 'd':
+                output.style.backgroundColor = "#0000FF";
+                break;
+              default:
+            }
+            
+            
+        }
+        
+    </script>
+</body>
+
+</html>
