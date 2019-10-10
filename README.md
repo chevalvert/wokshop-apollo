@@ -27,10 +27,14 @@ Chaque groupe devra se mettre en relation avec le précédent et le suivant de f
 Le workshop repose sur la philosophie des [machines de Goldberg](https://www.google.com/search?q=rube+goldberg+machine&sxsrf=ACYBGNTHWHnbQb__6wzuOr1ZHdW5SGPimg:1569505116862&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiIt9qXzu7kAhVwyoUKHd5nBnwQ_AUIEygC&biw=1440&bih=766) ou également de [l’effet domino](https://fr.wikipedia.org/wiki/Effet_domino) qui exprime dans les deux cas une relation entre une cause et un effet.
 
 
-## Intervenants
-**Julien Drochon**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.  
+## Intervenant
+**Stéphane Buellet**, designer et co-fondateur du studio [Chevalvert](https://chevalvert.fr)
+
+## Équipe enseignante et festival Accès)s(
 **Pauline Chasseriaud**, Directrice du festival accès)s( cultures électroniques  
-**Stéphane Buellet**, designer et co-fondateur du studio Chevalvert  
+**Julien Drochon**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.  
+**Julien Bidoret**, Enseignant en nouveau Media à l’ESA Pyrénées — Pau.  
+**Jason Cook**, Responsable de l’atelier Soft Machine à l’ESA Pyrénées — Pau.  
 
 
 
