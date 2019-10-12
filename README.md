@@ -38,6 +38,45 @@ Le workshop repose sur la philosophie des [machines de Goldberg](https://www.goo
 
 
 
+
+00 00 00 13 CDR
+Roger. We got a roll program.
+
+00 00 12 06 CC
+Apollo 11, this is Houston. You are confirmed GO for orbit.
+
+02 08 24 28 CDR
+Our monitor shows pretty good, clear pictures from this angle. I already found the 90-degree bracket.
+
+02 08 27 55 CDR
+That was - That was me picking up some particles of paint that were floating through the air in front of the camera, there.
+
+04 09 25 38 LMP (TRANQ)
+Roger. This is the LM pilot. I'd like to take this opportunity to ask every person listening in, whoever and wherever they may be, to pause for a moment and contemplate the events of the past few hours and to give thanks in his or her own way. Over.
+
+04 13 24 48 CDR (TRANQ)
+THAT'S ONE SMALL STEP FOR (A) MAN, ONE GIANT LEAP FOR MANKIND.
+
+04 18 49 01 CC
+Tranquility Base, Houston. We've now collected all the ranging data that we can use, and you can go back to caution and warning ENABLE. Over.
+
+05 08 05 19 CMP
+Are you hearing me all right? I got a horrible squeal.
+
+05 08 06 59 CMP
+Houston, I did that, and I believe we are flowing oxygen, but the gage is just pegged FULL SCALE LOW.
+
+06 07 43 50 CDR
+My compliments to the chef. The food is outstanding. This cream of chicken soup I give at least three spoons.
+
+06 12 08 58 LMP
+Yes. We also noticed it was a little overcast down over - in the Antarctic ice cap, too.
+
+08 03 18 18 SWIM 1
+SPLASHDOWN!
+
+
+
 ## Ressources disponibles (pour contenu)
 
 * Apollo 11 Sounds : https://archive.org/details/Apollo11Audio
